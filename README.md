@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm David Quispe 👨‍💻
+# Hey, I'm David Antonio 👨‍💻
 
 ### Software Engineering • Frontend Developer • AI Enthusiast
 
