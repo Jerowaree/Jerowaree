@@ -2,7 +2,7 @@
 
 # Hey, I'm David Quispe 👨‍💻
 
-### Software Engineering Student • Frontend Developer • AI Enthusiast
+### Software Engineering • Frontend Developer • AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;Designing+clean+and+intuitive+interfaces;Exploring+AI-powered+software;Turning+ideas+into+real+products" alt="Typing SVG" />
 
