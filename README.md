@@ -52,21 +52,21 @@ Right now, I’m focused on crafting solid frontend experiences, improving my ba
 
 ### 🚚 MasterManager
 A business management platform designed to centralize operations, control workflows, and simplify decision-making for growing businesses.  
-**Stack:** React, Node.js, Tailwind CSS
+**Stack:** React, Node.js, Tailwind CSS, Nest, Next, SUNAT API, Sendgrid
 
 ---
 
 ### 🏋️ NextFit
 A modern fitness platform focused on training, physical progress, and personalized fitness tracking.  
 Designed to help users train smarter, track results, and improve consistency.  
-**Stack:** React, JavaScript, Tailwind CSS
+**Stack:** React, JavaScript, Tailwind CSS, Next, Nest
 
 ---
 
 ### 🎮 IUBIPlay
 An educational gaming platform designed to make learning more interactive, engaging, and fun through gamified experiences.  
 Built to combine education with play in a way that keeps users learning without feeling like homework attacked them.  
-**Stack:** React, Node.js, Firebase
+**Stack:** React, Node.js, Supabase
 
 ---
 
